@@ -20,7 +20,7 @@ module.exports = {
   networks: {
     hardhat: {},
     rinkeby: {
-      url: 'https://rinkeby.infura.io/v3/68a9c5e3cfd549edbb5d41ff0318073d',
+      url: 'https://rinkeby.infura.io/v3/KEY',
       accounts: ['PRIVATE_KEY']
     }
   },
