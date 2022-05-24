@@ -42,6 +42,8 @@ You must be careful because, despite his looks, old man Greg can pack a serious 
 
 ---
 
+We see here that our character's health and Greg's health have both gone down. We can take a peek at our NFT on OpenSea and see that our NFT's health metadata has also changed. 
+
 ![Screenshot (122)](https://user-images.githubusercontent.com/90572944/170054639-e1a52c45-deff-4e18-a72c-8c4e9b94051e.png)
 
 ---
